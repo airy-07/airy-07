@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/airy-07/my-portfolio/main/banner.png" alt="Zasya's Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/airy-07/my-portfolio/main/banner.jpg" alt="Zasya's Profile Banner" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=airy-07&color=2ea44f&style=flat&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/airy-07/my-portfolio?style=flat&color=2ea44f&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/airy-07/my-portfolio?style=flat&color=2ea44f&label=Commits" alt="Commits" />
+  <img src="https://img.shields.io/github/last-commit/airy-07/my-portfolio?style=flat&color=2ea44f&label=Last%20Commit" alt="Last Commit" />
 </p>
 
 ---
