@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/last-commit/airy-07/my-portfolio?style=flat&color=2ea44f&label=Last%20Commit" alt="Last Commit" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/airy-07/my-portfolio/main/cat.gif" width="75" alt="Cute Pixel Cat Walk" />
+</p>
+
 ---
 
 ### 💫 Tentang Saya
@@ -42,16 +46,16 @@ Saya adalah seorang **Hobbyist Coder** yang senang mengulik baris kode bersama a
 
 <p align="center">
   <a href="https://github.com/airy-07">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=airy-07&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ec4899&icon_color=ffdd67&text_color=ffffff&border_color=30363d&hide_border=false" alt="Zasya's GitHub Stats" width="48.5%" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=airy-07&theme=tokyonight" alt="Zasya's GitHub Stats" width="48.5%" />
   </a>
   <a href="https://github.com/airy-07">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airy-07&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ec4899&text_color=ffffff&border_color=30363d&hide_border=false" alt="Most Used Languages" width="48.5%" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=airy-07&theme=tokyonight" alt="Most Used Languages" width="48.5%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/airy-07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=airy-07&theme=tokyonight&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=30363d" alt="GitHub Streak" width="98%" />
+    <img src="https://streak-stats.demolab.com/?user=airy-07&theme=tokyonight&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=30363d" alt="GitHub Streak" width="98%" />
   </a>
 </p>
 
