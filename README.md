@@ -20,6 +20,7 @@ I am a **Hobbyist Coder** who loves exploring code alongside AI assistants (like
 
 - 🔭 **My Current Projects:**
   - **[Finance Airy](https://finance-airy.com/)** - An AI-powered personal finance management app (Tech Stack: Next.js & Firebase).
+  - **[Surat](https://surat-8ae32.web.app)** - A web application that helps with creating and managing letter/document numbering records.
   - **Kost Airy** - A modern boarding house management portal I'm currently building to learn more.
 - 🌱 **Current Learning Focus:** Mastering modern web development using Next.js, Tailwind CSS, and Firebase with the help of artificial intelligence (AI).
 - ✉️ **Get in Touch:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
