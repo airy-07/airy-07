@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/airy-07/my-portfolio/main/cat.gif?v=2" width="220" alt="Cute Pixel Cat Walk" />
+  <img src="https://github.com/airy-07/my-portfolio/blob/main/cat.gif?raw=true" width="220" alt="Cute Pixel Cat Walk" />
 </p>
 
 ---
