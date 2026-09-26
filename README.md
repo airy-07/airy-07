@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/github/last-commit/airy-07/my-portfolio?style=flat&color=2ea44f&label=Last%20Commit" alt="Last Commit" />
 </p>
 
+<!-- cat.gif sprite derived from oneko.js by adryd (https://github.com/adryd325/oneko.js), MIT License -->
 <p align="center">
-  <img src="https://github.com/airy-07/my-portfolio/blob/main/cat.gif?raw=true" width="220" alt="Cute Pixel Cat Walk" />
+  <img src="cat.gif" width="280" alt="Pixel cat walking, then curling up for a nap" />
 </p>
 
 ---
@@ -63,10 +64,10 @@ I am a **Hobbyist Coder** who loves exploring code alongside AI assistants (like
 ---
 
 <p align="center">
-  <a href="https://github.com/airy-07" target="blank">
+  <a href="https://github.com/airy-07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:wanschool04@gmail.com" target="blank">
+  <a href="mailto:wanschool04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
