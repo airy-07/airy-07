@@ -4,28 +4,63 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=airy-07&color=2ea44f&style=flat&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/airy-07/my-portfolio?style=flat&color=2ea44f&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/airy-07/my-portfolio?style=flat&color=2ea44f&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/airy-07/airy-07?style=flat&color=2ea44f&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/airy-07/airy-07?style=flat&color=2ea44f&label=Last%20Commit" alt="Last Commit" />
 </p>
 
-<!-- cat.gif sprite derived from oneko.js by adryd (https://github.com/adryd325/oneko.js), MIT License -->
 <p align="center">
-  <img src="cat.gif" width="280" alt="Pixel cat walking, then curling up for a nap" />
+  <img src="cat.gif" width="360" alt="Cartoon cat walking across the screen, curling up for a nap, then waking up again" />
 </p>
 
 ---
 
+<p align="center">
+  🌐 <b>Language:</b> <a href="#lang-en">English</a> · <a href="#lang-id">Bahasa Indonesia</a>
+</p>
+
+<details open id="lang-en">
+<summary><b>🇬🇧 About Me &amp; Projects (English)</b></summary>
+
 ### 💫 About Me
 
-I am a **Hobbyist Coder** who loves exploring code exciting projects. For me, learning programming is a fun and challenging hobby to fill my spare time!
+Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and building exciting projects. For me, learning programming is a fun and challenging hobby that fills my spare time!
 
-- 🔭 **My Current Projects:**
-  - **[Finance Airy](https://finance-airy.com/)** - An AI-powered personal finance management app (Tech Stack: Next.js & Firebase).
-  - **[Surat](https://surat-8ae32.web.app)** - A web application that helps with creating and managing letter/document numbering records.
-  - **Kost Airy** - A modern boarding house management portal I'm currently building to learn more.
-- 🌱 **Current Learning Focus:** Mastering modern web development using Next.js, Tailwind CSS, and Firebase with the help of artificial intelligence (AI).
-- ✉️ **Get in Touch:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
-- ⚡ **Fun Fact:** *"Coding with AI is my hobby, and creating bugs for AI to fix is half the fun! 🤖🚀"*
+- 🌱 **Currently sharpening:** Next.js, Tailwind CSS, and Firebase.
+- 🎯 **What drives me:** building small, useful tools first, then figuring out the "why" behind the code as I go.
+- ✉️ **Reach me at:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
+- ⚡ **Fun fact:** *"My best bug fixes always happen right after I say 'okay, last one, then I'll sleep.' 🌙💻"*
+
+### 🚀 Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Finance Airy](https://finance-airy.com/)** | AI-powered personal finance app for tracking income, expenses, and everyday budgeting. | Next.js · Firebase |
+| **[Surat](https://surat-8ae32.web.app)** | Web app for creating and managing official letter/document numbering records. | Firebase |
+| **Kost Airy** | A boarding-house (*kost*) management portal — currently in the works as my next learning project. | Next.js · Firebase |
+
+</details>
+
+<details id="lang-id">
+<summary><b>🇮🇩 Tentang Saya &amp; Proyek (Bahasa Indonesia)</b></summary>
+
+### 💫 Tentang Saya
+
+Hai, saya **Zasya** 👋 — seorang **hobbyist coder** yang suka mengeksplorasi kode dan membangun proyek-proyek seru. Bagi saya, belajar pemrograman adalah hobi yang menyenangkan sekaligus menantang untuk mengisi waktu luang!
+
+- 🌱 **Sedang didalami:** Next.js, Tailwind CSS, dan Firebase.
+- 🎯 **Yang memotivasi saya:** membangun tools kecil yang berguna dulu, baru memahami "kenapa"-nya sambil jalan.
+- ✉️ **Hubungi saya di:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
+- ⚡ **Fakta unik:** *"Perbaikan bug terbaik saya selalu terjadi tepat setelah saya bilang 'oke, ini yang terakhir, habis itu tidur.' 🌙💻"*
+
+### 🚀 Proyek
+
+| Proyek | Fungsinya | Dibangun dengan |
+| --- | --- | --- |
+| **[Finance Airy](https://finance-airy.com/)** | Aplikasi keuangan pribadi berbasis AI untuk mencatat pemasukan, pengeluaran, dan anggaran harian. | Next.js · Firebase |
+| **[Surat](https://surat-8ae32.web.app)** | Aplikasi web untuk membuat dan mengelola nomor surat/dokumen resmi. | Firebase |
+| **Kost Airy** | Portal manajemen kost — sedang dikerjakan sebagai proyek belajar berikutnya. | Next.js · Firebase |
+
+</details>
 
 ---
 
