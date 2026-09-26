@@ -8,9 +8,8 @@
   <img src="https://img.shields.io/github/last-commit/airy-07/my-portfolio?style=flat&color=2ea44f&label=Last%20Commit" alt="Last Commit" />
 </p>
 
-<!-- cat.gif sprite derived from oneko.js by adryd (https://github.com/adryd325/oneko.js), MIT License -->
 <p align="center">
-  <img src="cat.gif" width="280" alt="Pixel cat walking, then curling up for a nap" />
+  <img src="cat.gif" width="360" alt="Cartoon cat walking across the screen, curling up for a nap, then waking up again" />
 </p>
 
 ---
