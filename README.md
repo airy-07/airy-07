@@ -16,7 +16,7 @@
 
 ### 💫 About Me
 
-Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and building exciting projects, using AI assistants (Gemini, Claude, ChatGPT) as coding partners along the way. For me, learning programming is a fun and challenging hobby that fills my spare time!
+Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and building exciting projects. For me, learning programming is a fun and challenging hobby that fills my spare time!
 
 - 🌱 **Currently sharpening:** Next.js, Tailwind CSS, and Firebase — with a lot of help (and a lot of debugging) from AI.
 - 🎯 **What drives me:** building small, useful tools first, then figuring out the "why" behind the code as I go.
