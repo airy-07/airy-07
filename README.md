@@ -18,7 +18,7 @@
 
 Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and building exciting projects. For me, learning programming is a fun and challenging hobby that fills my spare time!
 
-- 🌱 **Currently sharpening:** Next.js, Tailwind CSS, and Firebase — with a lot of help (and a lot of debugging) from AI.
+- 🌱 **Currently sharpening:** Next.js, Tailwind CSS, and Firebase.
 - 🎯 **What drives me:** building small, useful tools first, then figuring out the "why" behind the code as I go.
 - ✉️ **Reach me at:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
 - ⚡ **Fun fact:** *"Coding with AI is my hobby, and creating bugs for AI to fix is half the fun! 🤖🚀"*
