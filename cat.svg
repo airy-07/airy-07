@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 210" width="640" height="210">
+  <defs>
+    <radialGradient id="fur" cx="35%" cy="25%" r="80%">
+      <stop offset="0" stop-color="#F9A85A"/>
+      <stop offset="0.6" stop-color="#EE8A3C"/>
+      <stop offset="1" stop-color="#D9702A"/>
+    </radialGradient>
+    <radialGradient id="head" cx="40%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#FAAE62"/>
+      <stop offset="0.7" stop-color="#EE8A3C"/>
+      <stop offset="1" stop-color="#DB722C"/>
+    </radialGradient>
+    <radialGradient id="iris" cx="50%" cy="35%" r="65%">
+      <stop offset="0" stop-color="#FFD166"/>
+      <stop offset="1" stop-color="#E08A10"/>
+    </radialGradient>
+    <linearGradient id="farLeg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D06A26"/>
+      <stop offset="1" stop-color="#C45F1E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ================= WALKING CAT ================= -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-250 0; 200 0; 200 0; 660 0" keyTimes="0; 0.33; 0.77; 1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.33;0.355;0.75;0.775;1" dur="12s" repeatCount="indefinite"/>
+
+    <!-- shadow -->
+    <ellipse cx="125" cy="197" rx="80" ry="6" fill="#000" opacity="0.15"/>
+
+    <!-- body bob -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="0.35s" repeatCount="indefinite"/>
+
+      <!-- tail -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-6 60 118; 8 60 118; -6 60 118" dur="1.4s" repeatCount="indefinite"/>
+        <path d="M60 120 C30 112 18 82 28 56 C34 40 50 34 54 46" fill="none" stroke="#8A3F12" stroke-width="17" stroke-linecap="round"/>
+        <path d="M60 120 C30 112 18 82 28 56 C34 40 50 34 54 46" fill="none" stroke="#EE8A3C" stroke-width="13" stroke-linecap="round"/>
+        <path d="M60 120 C30 112 18 82 28 56 C34 40 50 34 54 46" fill="none" stroke="#C4611F" stroke-width="13" stroke-dasharray="5 11" stroke-dashoffset="4"/>
+      </g>
+
+      <!-- far legs (behind body) -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-22 78 135; 22 78 135; -22 78 135" dur="0.7s" repeatCount="indefinite"/>
+        <path d="M68 132 C66 120 90 120 88 132 L85 176 C85 186 71 186 71 178 Z" fill="url(#farLeg)" stroke="#8A3F12" stroke-width="2"/>
+        <ellipse cx="78" cy="184" rx="11" ry="7" fill="#EFD9BC" stroke="#8A3F12" stroke-width="2"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="22 158 132; -22 158 132; 22 158 132" dur="0.7s" repeatCount="indefinite"/>
+        <path d="M148 130 C146 118 170 118 168 130 L165 176 C165 186 151 186 151 178 Z" fill="url(#farLeg)" stroke="#8A3F12" stroke-width="2"/>
+        <ellipse cx="158" cy="184" rx="11" ry="7" fill="#EFD9BC" stroke="#8A3F12" stroke-width="2"/>
+      </g>
+
+      <!-- body -->
+      <path d="M52 122 C50 96 92 86 132 90 C164 93 186 104 186 126 C186 150 156 157 118 155 C80 154 54 146 52 122 Z"
+        fill="url(#fur)" stroke="#8A3F12" stroke-width="2.5"/>
+      <!-- chest / belly -->
+      <path d="M120 150 C140 156 170 150 178 132 C182 120 172 112 160 118 C146 126 128 138 120 150 Z" fill="#FFF1DC"/>
+      <!-- body stripes -->
+      <g fill="none" stroke="#C4611F" stroke-width="6" stroke-linecap="round">
+        <path d="M78 96 C74 108 76 120 82 128"/>
+        <path d="M98 91 C92 104 94 118 100 128"/>
+        <path d="M118 90 C112 104 114 116 120 124"/>
+        <path d="M138 91 C134 102 136 112 140 118"/>
+        <path d="M64 108 C62 116 64 124 68 130"/>
+      </g>
+
+      <!-- near legs (in front of body) -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="22 94 138; -22 94 138; 22 94 138" dur="0.7s" repeatCount="indefinite"/>
+        <path d="M82 136 C80 120 108 120 106 136 L102 178 C102 189 86 189 86 180 Z" fill="#EE8A3C" stroke="#8A3F12" stroke-width="2"/>
+        <path d="M86 150 L102 150" stroke="#C4611F" stroke-width="4" stroke-linecap="round"/>
+        <path d="M86 162 L102 162" stroke="#C4611F" stroke-width="4" stroke-linecap="round"/>
+        <ellipse cx="94" cy="186" rx="12" ry="7.5" fill="#FFF1DC" stroke="#8A3F12" stroke-width="2"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-22 172 134; 22 172 134; -22 172 134" dur="0.7s" repeatCount="indefinite"/>
+        <path d="M160 132 C158 116 186 116 184 132 L180 178 C180 189 164 189 164 180 Z" fill="#EE8A3C" stroke="#8A3F12" stroke-width="2"/>
+        <path d="M164 150 L180 150" stroke="#C4611F" stroke-width="4" stroke-linecap="round"/>
+        <path d="M164 162 L180 162" stroke="#C4611F" stroke-width="4" stroke-linecap="round"/>
+        <ellipse cx="172" cy="186" rx="12" ry="7.5" fill="#FFF1DC" stroke="#8A3F12" stroke-width="2"/>
+      </g>
+
+      <!-- head -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-2 180 110; 2 180 110; -2 180 110" dur="0.7s" repeatCount="indefinite"/>
+        <!-- ears -->
+        <path d="M150 64 C146 44 148 26 154 16 C166 24 180 36 186 48 Z" fill="#EE8A3C" stroke="#8A3F12" stroke-width="2.5" stroke-linejoin="round"/>
+        <path d="M156 56 C154 44 156 32 158 26 C166 32 174 40 178 48 Z" fill="#F7C2B6"/>
+        <path d="M158 50 l4 -8 M162 52 l5 -7 M166 52 l4 -6" stroke="#FFF1DC" stroke-width="2" stroke-linecap="round"/>
+        <path d="M200 46 C208 34 222 24 234 20 C238 32 238 48 232 64 Z" fill="#EE8A3C" stroke="#8A3F12" stroke-width="2.5" stroke-linejoin="round"/>
+        <path d="M206 46 C212 38 222 32 228 30 C230 38 230 48 226 56 Z" fill="#F7C2B6"/>
+        <path d="M220 48 l4 -8 M216 48 l5 -6 M224 52 l3 -7" stroke="#FFF1DC" stroke-width="2" stroke-linecap="round"/>
+
+        <!-- head shape -->
+        <path d="M146 84 C144 56 168 42 192 42 C218 42 240 56 240 84 C240 104 234 116 222 122 C208 128 176 128 162 122 C150 116 146 104 146 84 Z"
+          fill="url(#head)" stroke="#8A3F12" stroke-width="2.5"/>
+        <!-- forehead stripes -->
+        <g fill="none" stroke="#C4611F" stroke-width="4.5" stroke-linecap="round">
+          <path d="M193 46 L193 62"/>
+          <path d="M182 48 L185 62"/>
+          <path d="M204 48 L201 62"/>
+          <path d="M148 88 L160 90"/>
+          <path d="M150 98 L161 98"/>
+          <path d="M238 88 L226 90"/>
+          <path d="M236 98 L225 98"/>
+        </g>
+        <!-- muzzle / cheeks -->
+        <path d="M160 104 C160 92 178 90 193 96 C208 90 226 92 226 104 C226 120 210 126 193 126 C176 126 160 120 160 104 Z" fill="#FFF1DC"/>
+
+        <!-- eyes -->
+        <g>
+          <ellipse cx="174" cy="86" rx="12" ry="14" fill="#fff" stroke="#5A2A0C" stroke-width="2"/>
+          <circle cx="175" cy="87" r="10" fill="url(#iris)"/>
+          <ellipse cx="176" cy="88" rx="6" ry="8" fill="#1E120C"/>
+          <circle cx="179" cy="83" r="3" fill="#fff"/>
+          <circle cx="172" cy="92" r="1.5" fill="#fff"/>
+          <path d="M161 80 C165 70 184 70 187 80" fill="none" stroke="#5A2A0C" stroke-width="3" stroke-linecap="round"/>
+          <path d="M162 76 l-5 -4" stroke="#5A2A0C" stroke-width="2" stroke-linecap="round"/>
+
+          <ellipse cx="212" cy="86" rx="12" ry="14" fill="#fff" stroke="#5A2A0C" stroke-width="2"/>
+          <circle cx="213" cy="87" r="10" fill="url(#iris)"/>
+          <ellipse cx="214" cy="88" rx="6" ry="8" fill="#1E120C"/>
+          <circle cx="217" cy="83" r="3" fill="#fff"/>
+          <circle cx="210" cy="92" r="1.5" fill="#fff"/>
+          <path d="M199 80 C202 70 221 70 225 80" fill="none" stroke="#5A2A0C" stroke-width="3" stroke-linecap="round"/>
+          <path d="M224 76 l5 -4" stroke="#5A2A0C" stroke-width="2" stroke-linecap="round"/>
+
+          <!-- blink: eyelids close quickly every few seconds -->
+          <ellipse cx="174" cy="86" rx="13" ry="0" fill="#EE8A3C">
+            <animate attributeName="ry" values="0;0;15;0" keyTimes="0;0.93;0.965;1" dur="3.5s" repeatCount="indefinite"/>
+          </ellipse>
+          <ellipse cx="212" cy="86" rx="13" ry="0" fill="#EE8A3C">
+            <animate attributeName="ry" values="0;0;15;0" keyTimes="0;0.93;0.965;1" dur="3.5s" repeatCount="indefinite"/>
+          </ellipse>
+        </g>
+
+        <!-- nose & mouth -->
+        <path d="M188 104 L198 104 L193 110 Z" fill="#E8828C" stroke="#8A3F12" stroke-width="1.5" stroke-linejoin="round"/>
+        <path d="M193 110 L193 113 M184 112 C187 117 192 116 193 113 C194 116 199 117 202 112" fill="none" stroke="#5A2A0C" stroke-width="2" stroke-linecap="round"/>
+        <!-- whiskers -->
+        <g stroke="#8A3F12" stroke-width="1.3" stroke-linecap="round" opacity="0.8">
+          <path d="M168 108 L140 104"/><path d="M168 112 L140 114"/><path d="M169 116 L143 122"/>
+          <path d="M218 108 L246 104"/><path d="M218 112 L246 114"/><path d="M217 116 L243 122"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= SLEEPING CAT ================= -->
+  <g transform="translate(200 0)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.355;0.75;0.775;1" dur="12s" repeatCount="indefinite"/>
+
+    <ellipse cx="125" cy="197" rx="95" ry="6" fill="#000" opacity="0.15"/>
+
+    <!-- breathing body -->
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1 1; 1 1.04; 1 1" dur="2.6s" repeatCount="indefinite" additive="sum"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7.8; 0 0" dur="2.6s" repeatCount="indefinite" additive="sum"/>
+      <path d="M40 170 C36 136 80 118 124 120 C170 122 206 140 206 170 C206 190 180 196 124 196 C70 196 42 192 40 170 Z"
+        fill="url(#fur)" stroke="#8A3F12" stroke-width="2.5"/>
+      <g fill="none" stroke="#C4611F" stroke-width="6" stroke-linecap="round">
+        <path d="M70 130 C66 144 68 156 74 164"/>
+        <path d="M92 123 C86 138 88 152 94 160"/>
+        <path d="M114 121 C108 136 110 150 116 158"/>
+        <path d="M136 122 C132 134 134 146 138 152"/>
+        <path d="M52 146 C52 154 54 162 58 168"/>
+      </g>
+    </g>
+
+    <!-- tail wrapped around the front -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 60 184; 0 60 184; -4 60 184; 0 60 184" keyTimes="0;0.8;0.9;1" dur="3s" repeatCount="indefinite"/>
+      <path d="M50 178 C60 196 120 198 160 190 C176 186 184 180 186 176" fill="none" stroke="#8A3F12" stroke-width="17" stroke-linecap="round"/>
+      <path d="M50 178 C60 196 120 198 160 190 C176 186 184 180 186 176" fill="none" stroke="#EE8A3C" stroke-width="13" stroke-linecap="round"/>
+      <path d="M50 178 C60 196 120 198 160 190 C176 186 184 180 186 176" fill="none" stroke="#C4611F" stroke-width="13" stroke-dasharray="5 11"/>
+    </g>
+
+    <!-- front paws tucked -->
+    <ellipse cx="200" cy="188" rx="14" ry="8" fill="#FFF1DC" stroke="#8A3F12" stroke-width="2"/>
+    <ellipse cx="220" cy="190" rx="14" ry="8" fill="#FFF1DC" stroke="#8A3F12" stroke-width="2"/>
+
+    <!-- sleeping head resting on paws -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="2.6s" repeatCount="indefinite"/>
+      <path d="M184 118 C182 100 186 86 192 78 C202 86 212 96 216 106 Z" fill="#EE8A3C" stroke="#8A3F12" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M190 110 C189 100 191 92 194 88 C200 94 206 100 208 106 Z" fill="#F7C2B6"/>
+      <path d="M232 104 C238 94 250 86 260 84 C262 96 260 110 254 120 Z" fill="#EE8A3C" stroke="#8A3F12" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M236 104 C242 98 250 94 254 92 C256 100 254 108 250 114 Z" fill="#F7C2B6"/>
+      <path d="M176 144 C174 118 196 104 220 104 C244 104 264 118 262 144 C261 164 244 178 220 178 C196 178 178 164 176 144 Z"
+        fill="url(#head)" stroke="#8A3F12" stroke-width="2.5"/>
+      <g fill="none" stroke="#C4611F" stroke-width="4.5" stroke-linecap="round">
+        <path d="M220 108 L220 122"/><path d="M209 110 L212 122"/><path d="M231 110 L228 122"/>
+      </g>
+      <path d="M188 156 C188 146 204 144 219 150 C234 144 252 146 252 156 C252 170 236 176 219 176 C202 176 188 170 188 156 Z" fill="#FFF1DC"/>
+      <!-- closed, content eyes -->
+      <path d="M192 140 C197 147 207 147 211 140" fill="none" stroke="#5A2A0C" stroke-width="3" stroke-linecap="round"/>
+      <path d="M229 140 C233 147 243 147 248 140" fill="none" stroke="#5A2A0C" stroke-width="3" stroke-linecap="round"/>
+      <path d="M215 156 L225 156 L220 161 Z" fill="#E8828C" stroke="#8A3F12" stroke-width="1.5" stroke-linejoin="round"/>
+      <path d="M212 163 C215 167 219 166 220 163 C221 166 225 167 228 163" fill="none" stroke="#5A2A0C" stroke-width="2" stroke-linecap="round"/>
+      <ellipse cx="200" cy="154" rx="6" ry="3.5" fill="#F4A3A8" opacity="0.6"/>
+      <ellipse cx="240" cy="154" rx="6" ry="3.5" fill="#F4A3A8" opacity="0.6"/>
+    </g>
+
+    <!-- Zzz -->
+    <g font-family="Verdana, Arial, sans-serif" font-weight="bold" fill="#8A6BB8">
+      <text x="266" y="110" font-size="18" opacity="0">z
+        <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="112;80" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="264;274" dur="2.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="280" y="90" font-size="24" opacity="0">z
+        <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="96;58" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="276;290" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+      </text>
+      <text x="296" y="70" font-size="30" opacity="0">Z
+        <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="80;36" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="290;306" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+</svg>
