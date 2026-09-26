@@ -17,7 +17,7 @@
 
 ### 💫 About Me
 
-I am a **Hobbyist Coder** who loves exploring code alongside AI assistants (like Gemini, Claude, and ChatGPT) to build exciting projects. For me, learning programming is a fun and challenging hobby to fill my spare time!
+I am a **Hobbyist Coder** who loves exploring code exciting projects. For me, learning programming is a fun and challenging hobby to fill my spare time!
 
 - 🔭 **My Current Projects:**
   - **[Finance Airy](https://finance-airy.com/)** - An AI-powered personal finance management app (Tech Stack: Next.js & Firebase).
