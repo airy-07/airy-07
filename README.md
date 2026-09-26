@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="cat.gif" width="360" alt="Cartoon cat walking across the screen, curling up for a nap, then waking up again" />
+  <img src="cat.svg" width="480" alt="Orange tabby cat walking across the screen, curling up for a nap, then waking up again" />
 </p>
 
 ---
