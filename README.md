@@ -21,7 +21,7 @@ Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and bui
 - 🌱 **Currently sharpening:** Next.js, Tailwind CSS, and Firebase.
 - 🎯 **What drives me:** building small, useful tools first, then figuring out the "why" behind the code as I go.
 - ✉️ **Reach me at:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
-- ⚡ **Fun fact:** *"Coding with AI is my hobby, and creating bugs for AI to fix is half the fun! 🤖🚀"*
+- ⚡ **Fun fact:** *"My best bug fixes always happen right after I say 'okay, last one, then I'll sleep.' 🌙💻"*
 
 ---
 
