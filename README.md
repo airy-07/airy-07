@@ -14,12 +14,6 @@
 
 ---
 
-<a id="about-me"></a>
-
-<p align="center">
-  🌐 <i>Read this in:</i> <b>English</b> · <a href="#tentang-saya">Bahasa Indonesia ↓</a>
-</p>
-
 ### 💫 About Me
 
 Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and building exciting projects. For me, learning programming is a fun and challenging hobby that fills my spare time!
@@ -36,31 +30,6 @@ Hi, I'm **Zasya** 👋 — a **hobbyist coder** who loves exploring code and bui
 | **[Finance Airy](https://finance-airy.com/)** | AI-powered personal finance app for tracking income, expenses, and everyday budgeting. | Next.js · Firebase |
 | **[Surat](https://surat-8ae32.web.app)** | Web app for creating and managing official letter/document numbering records. | Firebase |
 | **Kost Airy** | A boarding-house (*kost*) management portal — currently in the works as my next learning project. | Next.js · Firebase |
-
----
-
-<a id="tentang-saya"></a>
-
-<p align="center">
-  🌐 <i>Baca dalam:</i> <a href="#about-me">English ↑</a> · <b>Bahasa Indonesia</b>
-</p>
-
-### 💫 Tentang Saya
-
-Hai, saya **Zasya** 👋 — seorang **hobbyist coder** yang suka mengeksplorasi kode dan membangun proyek-proyek seru. Bagi saya, belajar pemrograman adalah hobi yang menyenangkan sekaligus menantang untuk mengisi waktu luang!
-
-- 🌱 **Sedang didalami:** Next.js, Tailwind CSS, dan Firebase.
-- 🎯 **Yang memotivasi saya:** membangun tools kecil yang berguna dulu, baru memahami "kenapa"-nya sambil jalan.
-- ✉️ **Hubungi saya di:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
-- ⚡ **Fakta unik:** *"Perbaikan bug terbaik saya selalu terjadi tepat setelah saya bilang 'oke, ini yang terakhir, habis itu tidur.' 🌙💻"*
-
-### 🚀 Proyek
-
-| Proyek | Fungsinya | Dibangun dengan |
-| --- | --- | --- |
-| **[Finance Airy](https://finance-airy.com/)** | Aplikasi keuangan pribadi berbasis AI untuk mencatat pemasukan, pengeluaran, dan anggaran harian. | Next.js · Firebase |
-| **[Surat](https://surat-8ae32.web.app)** | Aplikasi web untuk membuat dan mengelola nomor surat/dokumen resmi. | Firebase |
-| **Kost Airy** | Portal manajemen kost — sedang dikerjakan sebagai proyek belajar berikutnya. | Next.js · Firebase |
 
 ---
 
