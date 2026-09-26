@@ -16,15 +16,22 @@
 
 ### 💫 About Me
 
-I am a **Hobbyist Coder** who loves exploring code alongside AI assistants (like Gemini, Claude, and ChatGPT) to build exciting projects. For me, learning programming is a fun and challenging hobby to fill my spare time!
+Hi, I'm **Zasya** 👋 — a **hobbyist coder** who enjoys turning everyday ideas into real, working web apps. I build alongside AI assistants (Gemini, Claude, ChatGPT) as coding partners, treating every project as a hands-on way to learn modern web development one feature at a time.
 
-- 🔭 **My Current Projects:**
-  - **[Finance Airy](https://finance-airy.com/)** - An AI-powered personal finance management app (Tech Stack: Next.js & Firebase).
-  - **[Surat](https://surat-8ae32.web.app)** - A web application that helps with creating and managing letter/document numbering records.
-  - **Kost Airy** - A modern boarding house management portal I'm currently building to learn more.
-- 🌱 **Current Learning Focus:** Mastering modern web development using Next.js, Tailwind CSS, and Firebase with the help of artificial intelligence (AI).
-- ✉️ **Get in Touch:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
-- ⚡ **Fun Fact:** *"Coding with AI is my hobby, and creating bugs for AI to fix is half the fun! 🤖🚀"*
+- 🌱 **Currently sharpening:** Next.js, Tailwind CSS, and Firebase — with a lot of help (and a lot of debugging) from AI.
+- 🎯 **What drives me:** building small, useful tools first, then figuring out the "why" behind the code as I go.
+- ✉️ **Reach me at:** [wanschool04@gmail.com](mailto:wanschool04@gmail.com)
+- ⚡ **Fun fact:** *"Coding with AI is my hobby, and creating bugs for AI to fix is half the fun! 🤖🚀"*
+
+---
+
+### 🚀 Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Finance Airy](https://finance-airy.com/)** | AI-powered personal finance app for tracking income, expenses, and everyday budgeting. | Next.js · Firebase |
+| **[Surat](https://surat-8ae32.web.app)** | Web app for creating and managing official letter/document numbering records. | Firebase |
+| **Kost Airy** | A boarding-house (*kost*) management portal — currently in the works as my next learning project. | Next.js · Firebase |
 
 ---
 
